@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+geopandas
+seaborn
+plotly
+pywaffle
+kaleido
+IPython
